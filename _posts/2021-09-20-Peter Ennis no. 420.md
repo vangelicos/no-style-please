@@ -14,3 +14,5 @@ Fingerprint zamówienia: WLALYLUUPZ200921UV420
 
 Wzór podpisu:
 ![Peter Ennis](/media/petere.png)
+
+![pic](/media/pic.png)

@@ -11,3 +11,5 @@ Ilość zakupionego złota: 7x Sztabka Złota o masie 100 uncji
 Stan zachowania sztabki złota: Menniczy (klasa I)  
 Zamówienie numer: 373  
 Fingerprint zamówienia: TVLSLZALY170921UV373
+
+![pic](/media/pic.png)

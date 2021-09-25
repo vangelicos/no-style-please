@@ -14,3 +14,5 @@ Fingerprint zamówienia: LYDPURUBJRSLZ230921UV521
 
 Wzór podpisu:  
 ![Erwin Knuckles](/media/erwink.png)
+
+![pic](/media/pic.png)

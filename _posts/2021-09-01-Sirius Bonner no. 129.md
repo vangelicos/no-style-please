@@ -11,3 +11,5 @@ Ilość zakupionego złota: 379x Sztabka Złota o masie 100 uncji
 Stan zachowania sztabki złota: Menniczy (klasa I)  
 Zamówienie numer: 129  
 Fingerprint zamówienia: ZPYPBZIVUULY010921UV129
+
+![pic](/media/pic.png)

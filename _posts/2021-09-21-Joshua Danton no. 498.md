@@ -14,3 +14,5 @@ Fingerprint zamówienia: QVZOBHKHUAVU210921UV498
 
 Wzór podpisu:
 ![Joshua Danton](/media/joshuad.png)
+
+![pic](/media/pic.png)
