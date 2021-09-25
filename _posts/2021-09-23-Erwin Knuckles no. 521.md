@@ -12,5 +12,5 @@ Stan zachowania sztabki złota:
 Zamówienie numer: 
 Fingerprint zamówienia: 
 
-Wzór podpisu:
-[Erwin Knuckles](/media/erwink.png)
+Wzór podpisu:  
+![Erwin Knuckles](/media/erwink.png)
