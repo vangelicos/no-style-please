@@ -9,8 +9,8 @@ Obywatelstwo nabywcy: USA
 
 Ilość zakupionego złota: 120x Sztabka Złota o masie 100 uncji  
 Stan zachowania sztabki złota: Menniczy (klasa I)  
-Zamówienie numer: 
-Fingerprint zamówienia: 
+Zamówienie numer: 599  
+Fingerprint zamówienia: ZBUUFYPNOADOLLS240921UV599  
 
 Wzór podpisu:
 ![Sunny Rightwheel](/media/sunnyr.png)
