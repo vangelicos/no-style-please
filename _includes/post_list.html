@@ -14,6 +14,7 @@
   <ul>
     {%- for post in posts limit: include.limit -%}
         <li>
+          <link rel="icon" type="image/gif/png" href="/media/pic.png">
           <span>{{- post.date | date: site.theme_config.date_format -}}</span>
           <a href="{{ post.url | relative_url }}">{{ post.title | downcase }}</a>
         </li>
