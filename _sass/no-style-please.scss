@@ -35,7 +35,8 @@ li { margin: 0.4rem 0; }
   max-width: 640px;
   margin: 0 auto;
   padding: 4rem 2rem;
-  background-color: azure;
+  background-color: white;
+  backdrop-filter: blur(25px);
 }
 
 hr {
