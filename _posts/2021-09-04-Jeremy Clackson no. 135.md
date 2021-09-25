@@ -2,15 +2,12 @@
 layout: post
 ---
 
-Imię nabywcy: 
-Nazwisko nabywcy: 
-Data urodzenia nabywcy: 
-Obywatelstwo nabywcy: 
+Imię nabywcy: Jeremy  
+Nazwisko nabywcy: Clackson  
+Data urodzenia nabywcy: 1946-12-16  
+Obywatelstwo nabywcy: Wielka Brytania  
 
-Ilość zakupionego złota: 
-Stan zachowania sztabki złota: 
-Zamówienie numer: 
-Fingerprint zamówienia: 
-
-Wzór podpisu:
-[](/media/.png)
+Ilość zakupionego złota: 92x Sztabka Złota o masie 100 uncji  
+Stan zachowania sztabki złota: Menniczy (klasa I)  
+Zamówienie numer: 135
+Fingerprint zamówienia: QLYLTFJSHJRZVU040921UV135

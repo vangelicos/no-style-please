@@ -2,15 +2,12 @@
 layout: post
 ---
 
-Imię nabywcy: 
-Nazwisko nabywcy: 
-Data urodzenia nabywcy: 
-Obywatelstwo nabywcy: 
+Imię nabywcy: Ben  
+Nazwisko nabywcy: Dover  
+Data urodzenia nabywcy: 1974-06-26
+Obywatelstwo nabywcy: Wielka Brytania  
 
-Ilość zakupionego złota: 
-Stan zachowania sztabki złota: 
-Zamówienie numer: 
-Fingerprint zamówienia: 
-
-Wzór podpisu:
-[](/media/.png)
+Ilość zakupionego złota: 405x Sztabka Złota o masie 100 uncji  
+Stan zachowania sztabki złota: Menniczy (klasa I)  
+Zamówienie numer: 309
+Fingerprint zamówienia: ILUKVCLY140921UV309

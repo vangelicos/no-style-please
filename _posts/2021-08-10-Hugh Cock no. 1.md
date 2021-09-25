@@ -2,15 +2,12 @@
 layout: post
 ---
 
-Imię nabywcy: 
-Nazwisko nabywcy: 
-Data urodzenia nabywcy: 
-Obywatelstwo nabywcy: 
+Imię nabywcy: Hugh  
+Nazwisko nabywcy: Cock  
+Data urodzenia nabywcy: 10-22-1993  
+Obywatelstwo nabywcy: USA  
 
-Ilość zakupionego złota: 
-Stan zachowania sztabki złota: 
-Zamówienie numer: 
-Fingerprint zamówienia: 
-
-Wzór podpisu:
-[](/media/.png)
+Ilość zakupionego złota: 14x Sztabka Złota o masie 100 uncji  
+Stan zachowania sztabki złota: Menniczy (klasa I)  
+Zamówienie numer: 1  
+Fingerprint zamówienia: OBNOJVJR100821UV1  

@@ -2,15 +2,12 @@
 layout: post
 ---
 
-Imię nabywcy: 
-Nazwisko nabywcy: 
-Data urodzenia nabywcy: 
-Obywatelstwo nabywcy: 
+Imię nabywcy: William  
+Nazwisko nabywcy: Apple  
+Data urodzenia nabywcy: 1967-04-30
+Obywatelstwo nabywcy: USA
 
-Ilość zakupionego złota: 
-Stan zachowania sztabki złota: 
-Zamówienie numer: 
-Fingerprint zamówienia: 
-
-Wzór podpisu:
-[](/media/.png)
+Ilość zakupionego złota: 134x Sztabka Złota o masie 100 uncji
+Stan zachowania sztabki złota: Menniczy (klasa I)  
+Zamówienie numer: 4  
+Fingerprint zamówienia: DPSSPHTHWWSL100821UV4  

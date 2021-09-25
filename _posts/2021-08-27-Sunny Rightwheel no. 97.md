@@ -3,4 +3,12 @@ layout: post
 category: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacinia neque. Praesent nulla quam, ullamcorper in sollicitudin ac, molestie sed justo. Cras aliquam, sapien id consectetur accumsan, augue magna faucibus ex, ut ultricies turpis tortor vel ante. In at rutrum tellus. Nullam vestibulum metus eu purus malesuada, volutpat mattis leo facilisis.
+Imię nabywcy: Sunny  
+Nazwisko nabywcy: Rightwheel  
+Data urodzenia nabywcy: 1982-07-27  
+Obywatelstwo nabywcy: USA  
+
+Ilość zakupionego złota: 417x Sztabka Złota o masie 100 uncji  
+Stan zachowania sztabki złota: Menniczy (klasa I)  
+Zamówienie numer: 97  
+Fingerprint zamówienia: ZBUUFYPNOADOLLS270821UV97

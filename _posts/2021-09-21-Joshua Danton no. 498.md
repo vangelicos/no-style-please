@@ -2,15 +2,15 @@
 layout: post
 ---
 
-Imię nabywcy: 
-Nazwisko nabywcy: 
-Data urodzenia nabywcy: 
-Obywatelstwo nabywcy: 
+Imię nabywcy: Joshua  
+Nazwisko nabywcy: Danton  
+Data urodzenia nabywcy: 1989-04-29
+Obywatelstwo nabywcy: Australia
 
-Ilość zakupionego złota: 
-Stan zachowania sztabki złota: 
-Zamówienie numer: 
-Fingerprint zamówienia: 
+Ilość zakupionego złota: 308x Sztabka Złota o masie 100 uncji  
+Stan zachowania sztabki złota: Menniczy (klasa I)  
+Zamówienie numer: 498 
+Fingerprint zamówienia: QVZOBHKHUAVU210921UV498  
 
 Wzór podpisu:
-[](/media/.png)
+![Joshua Danton](/media/joshuad.png)

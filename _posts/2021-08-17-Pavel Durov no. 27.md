@@ -2,15 +2,12 @@
 layout: post
 ---
 
-Imię nabywcy: 
-Nazwisko nabywcy: 
-Data urodzenia nabywcy: 
-Obywatelstwo nabywcy: 
+Imię nabywcy: Pavel  
+Nazwisko nabywcy: Durov  
+Data urodzenia nabywcy: 10.10.1984  
+Obywatelstwo nabywcy: Rosja, St. Kitts & Nevis  
 
-Ilość zakupionego złota: 
-Stan zachowania sztabki złota: 
-Zamówienie numer: 
-Fingerprint zamówienia: 
-
-Wzór podpisu:
-[](/media/.png)
+Ilość zakupionego złota: Sztabka Złota o masie 100 uncji  
+Stan zachowania sztabki złota: Menniczy (klasa I)  
+Zamówienie numer: 27  
+Fingerprint zamówienia: WHCLSKBYVC170821UV27

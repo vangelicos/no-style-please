@@ -2,15 +2,15 @@
 layout: post
 ---
 
-Imię nabywcy: 
-Nazwisko nabywcy: 
-Data urodzenia nabywcy: 
-Obywatelstwo nabywcy: 
+Imię nabywcy: Sunny  
+Nazwisko nabywcy: Rightwheel  
+Data urodzenia nabywcy: 1982-07-27  
+Obywatelstwo nabywcy: USA  
 
-Ilość zakupionego złota: 
-Stan zachowania sztabki złota: 
+Ilość zakupionego złota: 120x Sztabka Złota o masie 100 uncji  
+Stan zachowania sztabki złota: Menniczy (klasa I)  
 Zamówienie numer: 
 Fingerprint zamówienia: 
 
 Wzór podpisu:
-[](/media/.png)
+![Sunny Rightwheel](/media/sunnyr.png)

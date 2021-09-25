@@ -2,15 +2,15 @@
 layout: post
 ---
 
-Imię nabywcy: 
-Nazwisko nabywcy: 
-Data urodzenia nabywcy: 
-Obywatelstwo nabywcy: 
+Imię nabywcy: Peter  
+Nazwisko nabywcy: Ennis  
+Data urodzenia nabywcy: 1963-04-16  
+Obywatelstwo nabywcy: USA  
 
-Ilość zakupionego złota: 
-Stan zachowania sztabki złota: 
-Zamówienie numer: 
-Fingerprint zamówienia: 
+Ilość zakupionego złota: 165x Sztabka Złota o masie 100 uncji  
+Stan zachowania sztabki złota: Menniczy (klasa I)  
+Zamówienie numer: 420  
+Fingerprint zamówienia: WLALYLUUPZ200921UV420  
 
 Wzór podpisu:
-[](/media/.png)
+![Peter Ennis](/media/petere.png)
