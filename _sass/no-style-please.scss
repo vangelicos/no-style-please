@@ -17,6 +17,7 @@ body {
   margin: 0;
   min-height: 100%;
   overflow-wrap: break-word;
+  filter: blur(2rem);
 }
 
 .post-meta { text-align: right; }
@@ -35,7 +36,7 @@ li { margin: 0.4rem 0; }
   max-width: 640px;
   margin: 0 auto;
   padding: 4rem 2rem;
-  backdrop-filter: blur(25px);
+  backdrop-filter: blur(25rem);
   background-color: black;
   border-radius: 45px;
 }
