@@ -1,16 +1,31 @@
 // -------------- THEME SWITCHER -------------- //
+@mixin dark-appearance {
+  filter: invert(1);
+  img {
+    filter: invert(1);
 
+    &.ioda { filter: invert(0); }
+  }
+}
+
+body[a="dark"] { @include dark-appearance; }
+
+
+@media (prefers-color-scheme: dark) {
+  body[a="auto"] { @include dark-appearance; }
+}
 // -------------------------------------------- //
 
 // bg color is also needed in html in order to
 // block body's background propagation
 // see: https://stackoverflow.com/a/61265706
-html, body { background-image: url(https://alternativeinvestment.guide/wp-content/uploads/2021/05/LAX-gold-theft_1.jpg); }
+html, body { background: white; }
 
 html { height: 100%; }
 
 body {
-  color: #c9cccd;
+  color: #34495e;
+  color: black;
   font-family: monospace;
   font-size: 16px;
   line-height: 1.4;
@@ -35,9 +50,6 @@ li { margin: 0.4rem 0; }
   max-width: 640px;
   margin: 0 auto;
   padding: 4rem 2rem;
-  backdrop-filter: blur(25rem);
-  background-color: black;
-  border-radius: 45px;
 }
 
 hr {
