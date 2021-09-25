@@ -36,7 +36,9 @@ li { margin: 0.4rem 0; }
   margin: 0 auto;
   padding: 4rem 2rem;
   background-color: white;
+  -webkit-backdrop-filter: blur(25px);
   backdrop-filter: blur(25px);
+  border-radius: 5px;
 }
 
 hr {
