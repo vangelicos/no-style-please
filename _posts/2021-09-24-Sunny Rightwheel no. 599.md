@@ -14,3 +14,5 @@ Fingerprint zamówienia:
 
 Wzór podpisu:
 ![Sunny Rightwheel](/media/sunnyr.png)
+
+![pic](/media/pic.png)
