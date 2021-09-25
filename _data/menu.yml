@@ -6,7 +6,6 @@ entries:
     entries:
       - title: W systemie zapisywane są wszystkie transakcje złotem.
       - title: Protokołowanie transakji jest wymagane przez bank Union Depository oraz jubilera
-        url: https://vangelicos.github.io
 
   - title: wykonane transakcje
     post_list:
