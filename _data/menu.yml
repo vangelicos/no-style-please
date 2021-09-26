@@ -9,6 +9,7 @@ entries:
       - title: Uwaga! Od 20 września 2021 roku wymagane jest załączenie wzoru podpisu.
       - title: Dane w systemie widoczne są od 10 sierpnia 2021 - dnia rozpoczęcia handlu złotem.
       - title: Format - YYYY-MM-DD [Imię] [Nazwisko] no. [NUMERZAMÓWIENIA]
+      - title: Ilość sprzedanych sztabek złota do dnia 26.09.2021 - 4011
   - title: wykonane transakcje
     post_list:
       limit: 15
